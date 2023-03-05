@@ -29,12 +29,12 @@ namespace TPMOD3_1302210104
         }
         private void InputBox_TextChanged_1(object sender, EventArgs e)
         {
-
+            //BoxInput
         }
 
         private void OutputBoxes_TextChanged(object sender, EventArgs e)
         {
-
+            //BoxOutput
         }
     }
 }
