@@ -1,0 +1,11 @@
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\bin\Debug\TPMOD3_1302210104.exe.config
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\bin\Debug\TPMOD3_1302210104.exe
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\bin\Debug\TPMOD3_1302210104.pdb
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\obj\Debug\TPMOD3_1302210104.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\obj\Debug\TPMOD3_1302210104.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\obj\Debug\TPMOD3_1302210104.Form1.resources
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\obj\Debug\TPMOD3_1302210104.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\obj\Debug\TPMOD3_1302210104.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\obj\Debug\TPMOD3_1302210104.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\obj\Debug\TPMOD3_1302210104.exe
+C:\Users\ASUS\OneDrive\Documents\Iqnaz\KPL\TPMOD3\TPMOD3_1302210104\obj\Debug\TPMOD3_1302210104.pdb
